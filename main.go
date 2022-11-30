@@ -97,3 +97,5 @@ func main(){
 	fmt.Printf("Starting server on port 8000\n")
 	log.Fatal(http.ListenAndServe(":8000",r))
 }
+
+// https://youtu.be/jFfo23yIWac?t=3890
